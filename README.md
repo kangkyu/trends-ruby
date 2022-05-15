@@ -1,2 +1,2 @@
-# trends-ruby
-Ruby Google Trends API client
+# bigquery-ruby
+Ruby Google Bigquery API client
